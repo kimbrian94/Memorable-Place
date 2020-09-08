@@ -15,6 +15,7 @@
 		A5792DAE24B0276700BCDC5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5792DAC24B0276700BCDC5D /* LaunchScreen.storyboard */; };
 		A5792DB924B0276700BCDC5D /* Memorable_Places_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5792DB824B0276700BCDC5D /* Memorable_Places_2Tests.swift */; };
 		A5792DC424B0276700BCDC5D /* Memorable_Places_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5792DC324B0276700BCDC5D /* Memorable_Places_2UITests.swift */; };
+		A5792DD224B0294700BCDC5D /* PlacesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5792DD124B0294700BCDC5D /* PlacesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A5792DBF24B0276700BCDC5D /* Memorable Places 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Memorable Places 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5792DC324B0276700BCDC5D /* Memorable_Places_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memorable_Places_2UITests.swift; sourceTree = "<group>"; };
 		A5792DC524B0276700BCDC5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5792DD124B0294700BCDC5D /* PlacesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A5792DA324B0276500BCDC5D /* SceneDelegate.swift */,
 				A5792DA524B0276500BCDC5D /* ViewController.swift */,
 				A5792DA724B0276500BCDC5D /* Main.storyboard */,
+				A5792DD124B0294700BCDC5D /* PlacesViewController.swift */,
 				A5792DAA24B0276700BCDC5D /* Assets.xcassets */,
 				A5792DAC24B0276700BCDC5D /* LaunchScreen.storyboard */,
 				A5792DAF24B0276700BCDC5D /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5792DD224B0294700BCDC5D /* PlacesViewController.swift in Sources */,
 				A5792DA624B0276500BCDC5D /* ViewController.swift in Sources */,
 				A5792DA224B0276500BCDC5D /* AppDelegate.swift in Sources */,
 				A5792DA424B0276500BCDC5D /* SceneDelegate.swift in Sources */,
